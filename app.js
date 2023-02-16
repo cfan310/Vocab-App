@@ -11,7 +11,7 @@ const jan1 = {
     definition: '',
     sentence: ''       
 }*/
-
+// add by week
 const jan1 = {
     word: 'abinito',
     partOfSpeech: 'adverb',
